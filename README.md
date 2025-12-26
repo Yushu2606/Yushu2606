@@ -46,19 +46,19 @@
 
 ### 📚 学习中 & 感兴趣
 
-<code><img width="20" src="https://avatars.githubusercontent.com/u/33477741?s=200&v=4" alt="stride" /></code> Stride
+<code><img width="20" src="https://github.com/Stride3D.png?size=20" alt="stride" /></code> Stride
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/avalonia/avalonia.png?raw=true" alt="avalonia" /></code> Avalonia
 <code><img width="20" src="https://github.com/nushell/nushell/blob/main/assets/nu_logo.ico?raw=true" alt="nu" /></code> Nushell
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true" alt="typescript" /></code> TypeScript
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/svelte/svelte.png?raw=true" alt="svelte" /></code> Svelte
-<code><img width="20" src="https://github.com/github/explore/blob/main/topics/fedora/fedora.png?raw=true" alt="fedora" /></code> Fedora
+<code><img width="20" src="https://github.com/KDE.png?size=20" alt="kde" /></code> KDE
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/ios/ios.png?raw=true" alt="ios" /></code> macOS / iOS / iPadOS
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/android/android.png?raw=true" alt="android" /></code> AOSP / Android
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/bun/bun.png?raw=true" alt="bun" /></code> Bun & Node.JS
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/kotlin/kotlin.png?raw=true" alt="kotlin" /></code> Kotlin
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/dart/dart.png?raw=true" alt="dart" /></code> Dart & Flutter
 <code><img width="20" src="https://github.com/oracle/graal/raw/master/.github/assets/logo_320x64.svg" alt="graal" /></code> GraalVM
-<code><img width="20" src="https://avatars.githubusercontent.com/u/17149993?s=200&v=4" alt="llvm" /></code> LLVM
+<code><img width="20" src="https://github.com/LLVM.png?size=20" alt="llvm" /></code> LLVM
 
 ---
 
