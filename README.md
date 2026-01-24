@@ -40,6 +40,7 @@
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true" alt="vscode" /></code> VS Code
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/visual-studio/visual-studio.png?raw=true" alt="vs" /></code> Visual Studio
 <code><img width="20" src="./icons/rider.svg" alt="rider" /></code> Rider
+<code><img width="20" src="https://github.com/dnSpyEx.png?size=20" alt="dnspy" /></code> dnSpy & ILSpy
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/pycharm/pycharm.png?raw=true" alt="pycharm" /></code> PyCharm
 
 ---
@@ -59,6 +60,8 @@
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/dart/dart.png?raw=true" alt="dart" /></code> Dart & Flutter
 <code><img width="20" src="https://github.com/oracle/graal/raw/master/.github/assets/logo_320x64.svg" alt="graal" /></code> GraalVM
 <code><img width="20" src="https://github.com/LLVM.png?size=20" alt="llvm" /></code> LLVM
+<code><img width="20" src="https://hex-rays.com/hs-fs/hubfs/ladyida.png" alt="ids" /></code> IDA
+<code><img width="20" src="https://github.com/x64dbg.png?size=20" alt="x64dbg" /></code> x64dbg
 
 ---
 
