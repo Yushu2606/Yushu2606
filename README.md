@@ -1,29 +1,29 @@
-## 这里是予纾 👋
+## 这里是予纾 Here's Yushu 👋
 
-🧑🏻‍💻 在职后端工程师 | 🌱 持续学习中
+🧑🏻‍💻 在职后端工程师 Working Backend Engineer | 🌱 持续学习中 Keep Learning
 
-📍 中国·山东·青岛
+📍 中国·山东·青岛 Qingdao, Shandong, PRC
 
 ---
 
-### 🛠️ 技术栈 | Tech Stack
+### 🛠️ 技术栈 Tech Stack
 
-#### 语言 / Language
+#### 语言 Programming Language
 
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true" alt="csharp" /></code> C#
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" alt="python" /></code> Python
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" alt="javascript" /></code> JavaScript
 
-#### 框架 / Framework
+#### 框架 Framework
 
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png?raw=true" alt="aspnet" /></code> ASP.NET Core
 
-#### 基础设施 / Manufacturer
+#### 基础设施 Infrastructure Manufacturer
 
 <code><img width="20" src="https://raw.githubusercontent.com/containers/common/main/logos/podman-logo-full-vert.png" alt="podman" /></code> Podman & Docker
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png?raw=true" alt="postgresql" /></code> PostgreSQL
 
-#### 工具 / Tool
+#### 工具 Tools
 
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true" alt="vscode" /></code> VS Code
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/visual-studio/visual-studio.png?raw=true" alt="vs" /></code> Visual Studio
@@ -33,7 +33,7 @@
 
 ---
 
-### 📚 学习中 & 感兴趣
+### 📚 学习中 & 感兴趣 Learning & Interested
 
 <code><img width="20" src="https://github.com/Stride3D.png?size=20" alt="stride" /></code> Stride
 <code><img width="20" src="https://github.com/github/explore/blob/main/topics/avalonia/avalonia.png?raw=true" alt="avalonia" /></code> Avalonia
